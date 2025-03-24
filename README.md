@@ -44,3 +44,9 @@ Here is a simple **HTML & CSS** snippet from the project:
 </div>
 </body>
 </html>
+project title: WEATHER APP
+project title: WEATHER APP
+project title: WEATHER APP
+WEATHER APP
+ This is a weather app that provide forecast weather information
+this project demonstrates the use of .gitignore and README.md
