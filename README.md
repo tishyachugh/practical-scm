@@ -50,3 +50,6 @@ project title: WEATHER APP
 WEATHER APP
  This is a weather app that provide forecast weather information
 this project demonstrates the use of .gitignore and README.md
+WEATHER APP
+ This is a weather app that provide realtime forecast
+This project demonstrates the use of gitignore and README.md

@@ -10,3 +10,7 @@ env
 *.log
 *node monitor
 *.env
+*.log
+*.log
+*node monitor
+*.env
