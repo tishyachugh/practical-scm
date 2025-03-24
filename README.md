@@ -35,7 +35,8 @@ Here is a simple **HTML & CSS** snippet from the project:
     </style>
 </head>
 <body>
-    <h1>Welcome to My Project 🚀</h1>
+    <h1>Welcome to my weather app
+        🚀</h1>
     <button class="btn">Click Me!</button>
     <div class="collaborators">
         <p>👥 <span>Collaborators:</span> Ritika, Riva, Tishya, Yakshi</p>
